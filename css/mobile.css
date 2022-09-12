@@ -1,0 +1,12 @@
+#navbarSupportedContent{
+    position: absolute;
+    top: 56px;
+    width: 100%;
+    background: white none repeat scroll 0 0 ;
+    padding: 0 1rem;
+    left: 0
+}
+#navbarSupportedContent.scrolled{
+    top: 49px!important;
+    background: #212529!important;
+}
